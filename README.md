@@ -32,8 +32,9 @@
 # Aluno
 
 João Carlos
+
 <a href="https://www.linkedin.com/in/jcorreaw/">
-  <img alt="jcorreaw | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+  <img alt="jcorreaw | LinkedIn" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
 </a>
 
 
