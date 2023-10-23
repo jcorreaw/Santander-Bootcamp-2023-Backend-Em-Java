@@ -1,4 +1,4 @@
-## Bootcamp Santander 2023 Backend Java
+# Bootcamp Santander 2023 Backend Java
 
 <h2 align="center">
   <img width="450px" src="https://github.com/jcorreaw/Santander-Bootcamp-2023-Backend-Em-Java/blob/main/Santander%20Bootcamp%202023.png">
@@ -13,7 +13,7 @@
 - Bancos de dados SQL e NoSQL.
 - Desenvolvimento de APIs REST com o Spring Framework.
 
-## 🛠 Projetos
+## Projetos
 
 - Conhecendo Collections Java [Ver aqui](https://github.com/jcorreaw/Conhecendo-Collections)
 - Controle de Fluxo [Ver aqui](https://github.com/jcorreaw/Desafio-Controle-Fluxo)
